@@ -3,7 +3,7 @@
 
 <h2 align="left">Signal Acquisition</h2>
 
-![](Isabella-DeLaHoz/Header/Acquisition.PNG)
+![](https://github.com/Isabella-DeLaHoz/Isabella-DeLaHoz/blob/0b74fdc2f0afa696cf42bf92b80060b82418cbc6/Header/Acquisition.PNG)
 
 
 <h2 align="left">Signal Digitization </h2>
