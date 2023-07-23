@@ -3,10 +3,7 @@
 
 <h2 align="left">Signal Acquisition</h2>
 
-
-
-
-![](./Header/Acquisition.PNG)
+![](Isabella-DeLaHoz/Header/Acquisition.PNG)
 
 
 <h2 align="left">Signal Digitization </h2>
