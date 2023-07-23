@@ -2,6 +2,10 @@
 
 
 <h2 align="left">Signal Acquisition</h2>
+
+
+
+
 ![](./Header/Acquisition.PNG)
 
 
