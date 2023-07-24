@@ -1,6 +1,6 @@
 <h2 align="left">Electromyography Sensor</h2>
 
-The main objective of the EMG sensor project was to design and build a wearable device capable of capturing and analyzing muscle activity signals.
+The main objective of the EMG sensor project was to designed and built a wearable device capable of capturing and analyzing muscle activity signals.
  
 Features:
 
