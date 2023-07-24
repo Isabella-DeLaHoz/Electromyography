@@ -15,7 +15,8 @@ Features:
 
 
 
-* Low-cost EMG sensor that can be applied in rehabilitation 
+* Low-cost EMG sensor that can be applied in rehabilitation
+
 
 
 <h2 align="left">Signal Acquisition</h2>
