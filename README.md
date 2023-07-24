@@ -1,5 +1,5 @@
 <h2 align="left">Electromyography Sensor</h2>
-<p float="left">
+
 The main objective of the EMG sensor project was to designed and built a wearable device capable of capturing and analyzing muscle activity signals.
 
 
@@ -17,17 +17,17 @@ Features:
 
 
 * Low-cost EMG sensor that can be applied in rehabilitation
-</p>
+  
 
 
 <h2 align="left">Signal Acquisition</h2>
 
-<p float="left">
+<p>
   <img src="https://github.com/Isabella-DeLaHoz/Isabella-DeLaHoz/blob/0b74fdc2f0afa696cf42bf92b80060b82418cbc6/Header/Acquisition.PNG" width="410" height="280"/> 
   <img src="https://github.com/Isabella-DeLaHoz/Isabella-DeLaHoz/blob/0b74fdc2f0afa696cf42bf92b80060b82418cbc6/Header/Acquisition1.PNG" width="410" height="280"/>
 </p>
 
-<p float="left">
+
 Key Components:
 
 
@@ -56,13 +56,13 @@ Key Components:
 
 
 * CT:Trimmer 3296
-</p>
+
 
 <h2 align="left">Signal Digitization </h2>
-<p float="center">
+
 <img src="https://github.com/Isabella-DeLaHoz/Isabella-DeLaHoz/blob/0b74fdc2f0afa696cf42bf92b80060b82418cbc6/Header/Digitization.PNG" width="410" height="280" />
 <img src="https://github.com/Isabella-DeLaHoz/Isabella-DeLaHoz/blob/0b74fdc2f0afa696cf42bf92b80060b82418cbc6/Header/Digitization1.PNG" width="410" height="280" />
-</p>
+
 
 
 Key Components:
